@@ -1,0 +1,7 @@
+aws_region = "<aws_region>"
+aws_profile = "<aws_profile>"
+iam_name = "<iam_name>"
+identifier = "sagemaker.amazonaws.com"
+notebook_bucket_name = "<notebook_bucket_name>"
+sagemaker_bucket_name = "<sagemaker_bucket_name>"
+sagemaker_notebook_name = "<sagemaker_notebook_name>"
